@@ -53,6 +53,15 @@ h2 {
 #paris {
     background-color: #d32f2f;
 }
+
+#moscow {
+    background-color: #03a9f4;
+}
+#prague {
+    background-color: #d32f2f;
+}
+
+
 .destination:hover h2 {
     transform: rotate(0deg);
 }
